@@ -1,0 +1,22 @@
+#videoposition{
+  padding-left:100px;
+  padding-right: 200px;
+  padding-top: 250px;
+  margin-right: 200px;
+
+}
+button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+#position{
+  padding-left:850px;
+  padding-right: 50px;
+  padding-top: 250px;
+}
